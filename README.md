@@ -27,9 +27,7 @@ The Ripo contain the following ;
 
 •	Code and description
 
-•	Slide to be used for presentation 
-
-•	Report 
+•	Slide for presentation 
 
 •	Dataset (https://drive.google.com/drive/folders/11aBRhAbnx7qNujvhpkLcuiRkpScLde7u?usp=share_link)
 
